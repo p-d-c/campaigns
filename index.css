@@ -1,0 +1,76 @@
+body {
+  background-color: #E5E5E5;
+  position: absolute;
+}
+
+h1 {
+  text-align: center;
+}
+
+.centered {
+  position: relative;
+  left: 12.5%;
+}
+
+#poem_line1 {
+  rotate: -7deg;
+}
+
+#poem_line2 {
+  rotate: 15deg;
+}
+
+#poem_line3 {
+  rotate: -15deg;
+}
+
+#poem_line4 {
+  margin: 70px;
+  rotate: 5deg;
+  width: 60%;
+  height: 60%;
+}
+
+#poem_line5 {
+  rotate: -5deg;
+}
+
+#poem_line6 {
+  rotate: 0deg;
+}
+
+#poem_line7 {
+  rotate: 7deg;
+}
+
+#poem_line8 {
+  rotate: 0deg;
+}
+
+#poem_line9 {
+  rotate: -15deg;
+  width: 120%;
+  height: 120%;
+}
+
+#poem_line10 {
+  rotate: 0deg;
+  width: 100%;
+  height: 100%;
+  left: 0px;
+}
+
+#poem_line11 {
+  rotate: -20deg;
+}
+
+#poem_line12 {
+  margin: 70px;
+  rotate: 0deg;
+  width: 60%;
+  height: 60%;
+}
+
+#poem_line13 {
+  rotate: 5deg;
+}
